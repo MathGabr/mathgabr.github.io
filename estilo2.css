@@ -3,7 +3,7 @@ body{
     background-color: #FF99CC;
 }
 p{
-    text-indent: 30px;
+    text-indent: 30 px;
 }
 p.centro{
     text-align: center;
@@ -19,5 +19,5 @@ p.justificado{
     text-align: justify;
     text-decoration: line-through;
     text-transform: lowercase;
-    letter-spacing: 30px;
+    letter-spacing: 30 px;
 }
